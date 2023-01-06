@@ -3,7 +3,7 @@
 
 I develop web interfaces for high-load systems and do code support
 
-If you have any suggestions and interesting projects, write to me in a Telegram (@beastovsk)
+If you have any suggestions and interesting projects, DM me at Telegram (@beastovsk)
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
