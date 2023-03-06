@@ -1,5 +1,4 @@
-### Hi there 👋
-<h2>I'm Artyom, 19 y.o</h2>
+
 
 I develop web interfaces for high-load systems and do code support
 
